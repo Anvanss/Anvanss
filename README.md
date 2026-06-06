@@ -2,7 +2,7 @@
 
 # ✨ Angie Agudelo ✨
 
-### creative web developer from colombia ☕💻
+### Creative web developer from colombia ☕💻
 
 
 ## 🌸 About Me
@@ -13,7 +13,7 @@ const angie = {
   role: "Web Developer",
   learning: ["JavaScript", "PHP", "UI/UX"],
   passions: ["Frontend", "Creative Design", "Tech"],
-  funFact: "Coffee + coding = perfect combo ☕"
+  funFact: "Milkshake (or Aguapanela) + coding = perfect combo 🥤"
 }
 ````
 

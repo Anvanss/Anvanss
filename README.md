@@ -52,7 +52,7 @@ const angie = {
 
 <div align="center">
 
-### ✨ Code. Create. Improve. Repeat. ✨
+## ✨ Code. Create. Improve. Repeat. ✨
 
 </div>
 ```

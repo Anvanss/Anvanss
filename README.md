@@ -1,48 +1,62 @@
-```md
+````md id="2r0zlx"
 <div align="center">
 
-# ✨ Angie ✨
-### Web Developer • Creative Tech Girl • Future Software Engineer 💻
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100%"/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFvZXQ1eW9mMWJ2b2M2bDJ0Y2RzM3p4eGQ0dHNhb2V1M3FhNHV4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+# ✨ Angie Agudelo ✨
+
+### creative web developer from colombia ☕💻
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F78DA7&center=true&vCenter=true&width=600&lines=HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%F0%9F%92%96;Creative+Frontend+Developer;Future+Software+Engineer+%F0%9F%92%BB;Always+learning+new+things+%E2%9C%A8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,git,vscode,mysql"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anvanss&show_icons=true&theme=radical&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvanss&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌸 About me
+## 🌸 About Me
 
-- 💻 Passionate about web development and creative design
-- 🌱 Currently improving my skills in HTML, CSS, JavaScript & PHP
-- 🎨 I love aesthetic interfaces and cute UI details
-- 🚀 Looking for opportunities as a Web Developer / Webmaster
-- ☕ Milkshake (or Aguapanela), music and coding = perfect combo
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+```javascript
+const angie = {
+  location: "Bogotá, Colombia 🇨🇴",
+  role: "Web Developer",
+  learning: ["JavaScript", "PHP", "UI/UX"],
+  passions: ["Frontend", "Creative Design", "Tech"],
+  funFact: "Coffee + coding = perfect combo ☕"
+}
+````
 
 ---
 
-## 📊 GitHub Stats
+## 💖 Currently
+
+* 🌱 Improving my frontend skills
+* 🎨 Creating aesthetic interfaces
+* 🚀 Looking for opportunities in web development
+* 💡 Building cool projects and learning every day
+
+---
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anvanss&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvanss&layout=compact&theme=tokyonight&hide_border=true)
+### ✨ Code. Create. Improve. Repeat. ✨
 
 </div>
+```
+
 
 
 <div align="center">

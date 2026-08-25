@@ -13,7 +13,7 @@ const angie = {
   role: "Web Developer",
   learning: ["JavaScript", "PHP", "UI/UX"],
   passions: ["Frontend", "Creative Design", "Tech"],
-  funFact: "Milkshake (or Aguapanela) + coding = perfect combo 🥤"
+  funFact: "Milkshake (or Aguadepanela) + coding = perfect combo 🥤"
 }
 ````
 
